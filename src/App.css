@@ -1,0 +1,27 @@
+section.pageTitle h4 {
+    font-size: 55px;
+    color: #000;
+    font-weight: 600;
+}
+section.pageTitle p {
+    color: #000;
+    line-height: 32px;
+    font-size: 16px;
+    text-transform: capitalize;
+}
+.pageDetails {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+.tm-slider-textarea {
+    position: fixed;
+    top: 50%;
+    width: 50%;
+    text-align: center;
+    background-color: #fff;
+    transform: rotate(-90deg);
+    left: 0px;
+    padding: 15px;
+}
